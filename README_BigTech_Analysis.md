@@ -1,23 +1,5 @@
 # 🧠 Análise e Limpeza de Dados — Big Tech Stock Prices
 
-## 📋 Sumário
-1. [Conectar e Importar Dados](#1-conectar-e-importar-dados-para-as-ferramentas)
-2. [Identificar e Tratar Valores Nulos](#2-identificar-e-tratar-valores-nulos)
-3. [Identificar e Tratar Valores Duplicados](#3-identificar-e-tratar-valores-duplicados)
-4. [Identificar e Gerenciar Dados Fora do Escopo](#4-identificar-e-gerenciar-dados-fora-do-escopo)
-5. [Tratar Dados Discrepantes em Variáveis Categóricas](#5-identificar-e-tratar-dados-discrepantes-em-variáveis-categóricas)
-6. [Tratar Dados Discrepantes em Variáveis Numéricas](#6-identificar-e-tratar-dados-discrepantes-em-variáveis-numéricas)
-7. [Verificar e Alterar Tipos de Dados](#7-verificar-e-alterar-tipos-de-dados)
-8. [Criar Novas Variáveis](#8-criar-novas-variáveis)
-9. [Unir Tabelas](#9-unir-tabelas)
-10. [Agrupar Dados](#10-agrupar-dados-por-variáveis-categóricas)
-11. [Visualizar Variáveis Categóricas](#11-visualizar-variáveis-categóricas)
-12. [Medidas de Tendência Central](#12-aplicar-medidas-de-tendência-central)
-13. [Distribuição das Variáveis](#13-ver-distribuição-das-variáveis)
-14. [Medidas de Dispersão](#14-aplicar-medidas-de-dispersão)
-15. [Quartis, Decis e Percentis](#15-calcular-quartis-decis-ou-percentis)
-16. [Correlação entre Variáveis](#16-calcular-correlação-entre-variáveis)
-
 ---
 
 ## 🔵 1. Conectar e Importar Dados para as Ferramentas
