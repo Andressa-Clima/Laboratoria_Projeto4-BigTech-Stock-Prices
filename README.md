@@ -1,2 +1,2 @@
 # Laboratoria_Projeto4-BigTech-Stock-Prices
-Este conjunto de dados consiste em preços diários de ações e o volume de ações negociadas de 14 empresas de tecnologia diferentes, incluindo Apple (AAPL), Amazon (AMZN), Alphabet (GOOGL) e Metaplataformas (META) e muito mais.
+Este conjunto de dados reúne os preços diários das ações e o volume negociado de 14 empresas de tecnologia, incluindo Apple (AAPL), Amazon (AMZN), Alphabet (GOOGL) e Meta Platforms (META), entre outras. A partir dessa base, defini hipóteses sobre como acontecimentos externos podem ter influenciado a volatilidade dos preços dessas ações.
