@@ -179,5 +179,10 @@ display(correlation_matrix)
 ---
 
 📊 **Conclusão Geral:**  
+
+É possível explorar diferentes segmentos de ações para recomendar como investimento.
+Mudanças no volume de negociações ou lançamento de novos produtos não necessariamente afetam o preço das ações.
+A pandemia impactou apenas o volume médio de negociações da Apple, o que faz sentido, já que é a empresa da nossa base com maior dependência de produtos físicos.
+O preço médio de fechamento das empresas também registrou alta, impulsionada pela maior demanda por serviços de tecnologia durante a pandemia.
 A análise de dados das Big Techs foi conduzida com base em boas práticas de limpeza, integridade e consistência estatística.  
 Os resultados obtidos demonstram forte coerência entre as variáveis de preço e volume, com padrões comuns de assimetria em mercados financeiros.
